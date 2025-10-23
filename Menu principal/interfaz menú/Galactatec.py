@@ -3,6 +3,7 @@ import sys
 import json
 import os
 
+
 # Inicializar pygame
 pygame.init()
 
